@@ -1,6 +1,4 @@
-Of course. My apologies for the previous issues. Here is the full, complete, and final version of the `README.md` file directly in the chat, accurately reflecting all the features of your project.
 
------
 
 # Autonomous Shopping Cart Follower using Deep Reinforcement Learning
 
@@ -9,26 +7,6 @@ Of course. My apologies for the previous issues. Here is the full, complete, and
 
 A Deep Q-Network (DQN) agent trained from scratch to autonomously control a shopping cart, enabling it to follow a human target through a simulated supermarket environment while avoiding obstacles.
 
------
-
-## Table of Contents
-
-  - [About The Project]
-  - [Architecture]
-  - [Getting Started]
-      - [Prerequisites]
-      - [Installation]
-  - [Usage]
-      - [1. Train the Agent]
-      - [2. Plot the Training Results]
-      - [3. Run the Demo Videos]
-  - [RL Formulation]
-      - [State Space]
-      - [Action Space]
-      - [Reward Function]
-  - [Code Structure]
-  - [Limitations & Future Work]
-  - [License]
 -----
 
 ## About The Project
@@ -229,3 +207,4 @@ While this project was successful, there are several exciting avenues for future
 
 -----
 "# Autonomous-Shopping-Cart-RL-Project" 
+
